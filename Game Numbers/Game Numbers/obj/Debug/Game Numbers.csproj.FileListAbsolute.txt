@@ -1,0 +1,11 @@
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\bin\Debug\Game Numbers.exe.config
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\bin\Debug\Game Numbers.exe
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\bin\Debug\Game Numbers.pdb
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game Numbers.csproj.AssemblyReference.cache
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game_Numbers.Form1.resources
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game_Numbers.Properties.Resources.resources
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game Numbers.csproj.GenerateResource.cache
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game Numbers.csproj.CoreCompileInputs.cache
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game Numbers.exe
+C:\Users\workd\Documents\project\game_numbers\Game Numbers\Game Numbers\obj\Debug\Game Numbers.pdb
